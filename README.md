@@ -1,4 +1,6 @@
-# Fraud Risk Detection using Random Forest
+# 🌲 Fraud Risk Detection using Random Forest
+
+## 📌 Project Overview
 
 This project focuses on identifying **risky taxpayers** using a **Random Forest classification model**. Individuals with **taxable income ≤ 30,000** are labeled as **Risky**, while others are labeled as **Good**.  
 
